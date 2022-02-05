@@ -1,6 +1,6 @@
 About The Fit
 -----
-AboutTheFit is an Social hub for fashion holics, on this app you can video-call with your friends to be upto-date with the current-fashion senarios, take thier opinion on you online shopping cart or you can take the advice of random people from the internet, isn't that always a good idea 😂.
+AboutTheFit is an Social hub for fashion holics, on this app you can video-call with your friends to be upto-date with the current-fashion senarios, take thier opinion on you online shopping cart or you can take the advice of random people from the internet, isn't that always a good idea.
 
 ### Tech Stack
 * **Node.js** and **Express.js** 
