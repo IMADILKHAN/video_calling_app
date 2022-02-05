@@ -9,7 +9,7 @@ AboutTheFit is an Social hub for fashion holics, on this app you can video-call 
 * **Flask-Migrate** 
 
 
- ![2](2.png)
+ ![3](3.png)
 
 
 ### Development Setup
